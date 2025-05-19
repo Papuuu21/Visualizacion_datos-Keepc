@@ -56,16 +56,16 @@ Este proyecto proporciona una experiencia práctica en la exploración y visuali
 ## Demo (Capturas de pantalla):
 
 ### Kpis Precios
-![Kpis Precios](./PowerBI/kpisPrecios.png)
+![Kpis Precios](images/kpisPrecios.png)
 
 ### Regesion-Cluster
-![Regesion-Cluster](./PowerBI/Regresion_Cluster.png)
+![Regesion-Cluster](images/Regresion_Cluster.png)
 
 ### Reviews
-![Reviews](./PowerBI/Reviews.png)
+![Reviews](images/Reviews.png)
 
 ### Top 10 barrios
-![Top 10 barrios](./PowerBI/Top10Barrios.png)
+![Top 10 barrios](images/Top10Barrios.png)
 
 ### Para más información visitame en:
 * [Linkedin](https://www.linkedin.com/in/papudiaz/) 
